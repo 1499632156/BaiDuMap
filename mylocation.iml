@@ -86,6 +86,7 @@
     <orderEntry type="library" exported="" name="support-v4-23.2.0" level="project" />
     <orderEntry type="library" exported="" name="baidumapapi_radar_v3_7_1" level="project" />
     <orderEntry type="library" exported="" name="baidumapapi_base_v3_7_1" level="project" />
+    <orderEntry type="library" exported="" name="BaiduLBS_Android" level="project" />
     <orderEntry type="library" exported="" name="support-annotations-23.2.0" level="project" />
     <orderEntry type="library" exported="" name="baidumapapi_cloud_v3_7_1" level="project" />
     <orderEntry type="library" exported="" name="appcompat-v7-23.2.0" level="project" />
